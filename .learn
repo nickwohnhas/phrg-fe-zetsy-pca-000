@@ -10,3 +10,5 @@ tags:
   - color
   - kids
 resources: 4
+
+parent_template: git@github.com:learn-co-curriculum/fe-zetsy.git

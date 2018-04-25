@@ -1,4 +1,3 @@
-
 # Zetsy
 
 This challenge asks you to build the Zetsy page by writing your own HTML & CSS from scratch to match the mockup image and/or the live site example.
@@ -28,4 +27,4 @@ This challenge asks you to build the Zetsy page by writing your own HTML & CSS f
  * [Dev Tools Tutorial](http://code.tutsplus.com/tutorials/chrome-dev-tools-markup-and-style--net-27149)
  * [Digital Color Meter Tutorial](http://www.techrepublic.com/blog/apple-in-the-enterprise/discover-the-digitalcolor-meter-tool-on-your-mac/#)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-zetsy' title='Zetsy'>Zetsy</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Zetsy</p>
